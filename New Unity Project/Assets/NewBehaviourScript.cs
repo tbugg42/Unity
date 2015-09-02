@@ -3,7 +3,7 @@ using System.Collections;
 
 public class NewBehaviourScript : MonoBehaviour
 {   
-	int myInt = 5;
+	int myInt = 7;
 
 	void Start ()
 	{
