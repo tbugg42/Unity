@@ -7,7 +7,14 @@ public class FlyScript : MonoBehaviour
 	void Start ()
 	{
 		Debug.Log (transform.position.y);
-
+		//this is a comment
+		/*
+		 * this i
+		 * is 
+		 * how 
+		 * I 
+		 * multiline
+		 * */
 		if(transform.position.y <= heightTest)
 		{
 			Debug.Log("I'm about to hit the ground!");

@@ -4,7 +4,7 @@
     <Files>
       <File FileName="Assets/NewBehaviourScript.cs" Line="6" Column="15" />
       <File FileName="Assets/NewBehaviourScript1.cs" Line="1" Column="1" />
-      <File FileName="Assets/FlyScript.cs" Line="18" Column="30" />
+      <File FileName="Assets/FlyScript.cs" Line="18" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
