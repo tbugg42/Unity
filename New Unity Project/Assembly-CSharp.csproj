@@ -46,10 +46,14 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Dowhileloop.cs" />
      <Compile Include="Assets\FlyScript.cs" />
+     <Compile Include="Assets\Foreachloop.cs" />
+     <Compile Include="Assets\Forloop.cs" />
      <Compile Include="Assets\Ifstatement.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\NewBehaviourScript1.cs" />
+     <Compile Include="Assets\Whileloop.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
