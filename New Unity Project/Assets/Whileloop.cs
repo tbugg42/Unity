@@ -8,10 +8,10 @@ public class Whileloop : MonoBehaviour
 	
 	void Start ()
 	{
-		while(cupsInTheSink > 0)
+		while(cupsInTheSink>0)
 		{
-			Debug.Log ("I've washed a cup!");
-			cupsInTheSink--;
+		Debug.Log ("Still cleaning");
+		cupsInTheSink--;
 		}
 	}
 }

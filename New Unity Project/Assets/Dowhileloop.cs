@@ -9,8 +9,8 @@ public class Dowhileloop : MonoBehaviour
 		
 		do
 		{
-			print ("Hello World");
-			shouldContinue = false;
-		}while(shouldContinue == true);
+		print("I just came to say hello");
+		shouldContinue=false;
+		}while(shouldContinue==true);
 	}
 }

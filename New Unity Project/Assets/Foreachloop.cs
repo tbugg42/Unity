@@ -15,9 +15,9 @@ public class Foreachloop : MonoBehaviour
 		strings[5] = "Sneezy";
 		strings[5] = "Dopey";*/
 		
-		foreach(string item in strings)
+		foreach (string each in strings) 
 		{
-			print (item);
+			print (each);
 		}
 	}
 }

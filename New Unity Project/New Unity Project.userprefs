@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Forloop.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Whileloop.cs">
     <Files>
-      <File FileName="Assets/Forloop.cs" Line="17" Column="1" />
+      <File FileName="Assets/Dowhileloop.cs" Line="7" Column="3" />
+      <File FileName="Assets/Forloop.cs" Line="7" Column="20" />
+      <File FileName="Assets/Foreachloop.cs" Line="8" Column="81" />
+      <File FileName="Assets/Whileloop.cs" Line="6" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
